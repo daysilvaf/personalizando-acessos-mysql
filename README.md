@@ -1,1 +1,1 @@
-# personalizando-acessos-mysql
+Atividade de desafio de projeto da Formação SQL Database Specialist da DIO constituiu em criar versões em cima dos dados, além de, realizar modificações com base em ações automatizadas utilizando triggers.
